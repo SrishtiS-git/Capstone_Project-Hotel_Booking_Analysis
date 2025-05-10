@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode or other IDE config
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Excel temp files
+~$*
+
+# Power BI & Word temp/cache
+*.pbip
+*.pbit
+*.tmp
+*.bak
+*.lock
+
+# Environment folders
+env/
+venv/
+ENV/
